@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Pilner</h1>
+<h1 align="center">Welcome To My Special Place!</h1>
 <h3 align="center">A programmer is one that can do things in many ways</h3>
 
 <ul>
@@ -79,13 +79,13 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <a href="https://linkedin.com/in/pilner" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pilner" height="30" width="40" />
-      </a>
       <a href="https://fb.com/hahahalatado" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hahahalatado" height="30" width="40" />
       </a>
-      <a href="https://discord.gg/9523" target="blank">
+      <a href="https://linkedin.com/in/pilner" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pilner" height="30" width="40" />
+      </a>
+      <a href="http://discordapp.com/users/267124235334451201" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9523" height="30" width="40" />
       </a>
     </td>
