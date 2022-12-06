@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
   <li>👋 Hi, I’m <b>@Pilner</b></li>
   <li>👀 I’m interested in: Technologies and Programming in General</li>
   <li>🌱 I’m currently learning: <b>React.js</b></li>
-  <li>📫 How to reach me: Go to my <a href="https://raileyvictuelles.herokuapp.com/">Website</a></li>
+  <li>📫 How to reach me: Go to my <a target="_blank" href="https://raileyvictuelles.herokuapp.com/">Website</a></li>
 </ul>
 
 <br>
