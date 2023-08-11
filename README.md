@@ -4,21 +4,21 @@ Pilner/Pilner is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
 
 <h1 align="center">Welcome To My Special Place!</h1>
 <h3 align="center">A programmer is one that can do things in many ways</h3>
 
-<ul>
+<ul align="left">
   <li>👋 Hi, I’m <b>@Pilner</b></li>
   <li>👀 I’m interested in: Technologies and Programming in General</li>
-  <li>🌱 I’m currently learning: <b>React.js</b></li>
+  <li>🌱 I’m currently learning: <b>Django & Next.js</b></li>
   <li>📫 How to reach me: Go to my <a target="_blank" href="https://raileyvictuelles.herokuapp.com/">Website</a></li>
 </ul>
 
-<br>
-<br>
-<br>
+-------------------
 
+### Languages and Tools 
 <table align="center">
   <tr>
     <th>Languages</th>
@@ -27,81 +27,87 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <th>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
+      <div align="center">
+        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+        </a>
+        <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
+        </a>
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
+        </a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/>
+        </a>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs"/>
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
+        </a>
+      </div>
     </th>
     <th>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-      </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
+      <div align="center">
+        <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+        </a>
+        </a>
+          <a href="https://github.com" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+        </a>
+        <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+        </a>
+        <a href="https://heroku.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
+        </a>
+        <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
+        </a>
+        <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
+        </a>
+      </div>
     </th>
     <th>
-      <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-      </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
+      <div align="center">
+        <a href="https://ubuntu.com/wsl" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Ubuntu%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="heroku"/>
+        </a>
+        <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="heroku"/>
+        </a>
+      </div>
     </th>
-  </tr>
-  <tr>
-    <th align="center" colspan="3">
-      Connect with me
-    </th>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <a href="https://fb.com/hahahalatado" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hahahalatado" height="30" width="40" />
-      </a>
-      <a href="https://linkedin.com/in/pilner" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pilner" height="30" width="40" />
-      </a>
-      <a href="http://discordapp.com/users/267124235334451201" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9523" height="30" width="40" />
-      </a>
-    </td>
   </tr>
 </table>
 
-<br>
-<br>
-<br>
-
-<h2 align="center">Statistics</h2>
+### Statistics
 
 <p align="center">
   <a href="https://github.com/Pilner"><img src="https://github-readme-stats.vercel.app/api?username=Pilner&theme=tokyonight&count_private=true"></a>
 </p>
-<br>
-<p>
-  <a href="https://github.com/Pilner"><img src="https://activity-graph.herokuapp.com/graph?username=Pilner&theme=tokyo-night"></a>
+
+<p align="center">
+  <a href="https://github.com/Pilner"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pilner&theme=tokyonight&include_all_commits=true&count_private=true"></a>
 </p>
+
+
+</div>
+
+
+
+<div align="center">
