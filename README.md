@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 <ul align="left">
   <li>👋 Hi, I’m <b>@Pilner</b></li>
   <li>👀 I’m interested in: Technologies and Programming in General</li>
-  <li>🌱 I’m currently learning: <b>Django & Next.js</b></li>
-  <li>📫 How to reach me: Go to my <a target="_blank" href="https://raileyvictuelles.herokuapp.com/">Website</a></li>
 </ul>
 
 -------------------
@@ -85,10 +83,13 @@ You can click the Preview link to take a look at your changes.
     <th>
       <div align="center">
         <a href="https://ubuntu.com/wsl" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Ubuntu%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="heroku"/>
+          <img src="https://img.shields.io/badge/Ubuntu%20WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntuWSL"/>
         </a>
         <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="heroku"/>
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+        </a>
+        <a>
+          <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS">
         </a>
       </div>
     </th>
