@@ -4,20 +4,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<picture style="width:12rem">
+<picture>
 	<source
 		media="(prefers-color-scheme: light)"
 		srcset="./images/frv-logo-black.png"
-		style="width:12rem"
 		alt="FRV Logo Black"
 	/>
 	<source
 		media="(prefers-color-scheme: dark)"
 		srcset="./images/frv-logo-white.png"
-		style="width:12rem"
 		alt="FRV Logo White"
 	/>
-	<img alt="FRV Logo Black" style="width:12rem" />
+	<img alt="FRV Logo Black" width="200" />
 </picture>
 </div>
 
